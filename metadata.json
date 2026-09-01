@@ -1,0 +1,6 @@
+{
+  "name": "Paraphrase Pandemonium",
+  "description": "An interactive, game-show style educational game for mastering paraphrasing skills across multiple difficulties with instant AI feedback, masoct commentary, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
